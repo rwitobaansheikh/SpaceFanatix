@@ -9,13 +9,13 @@ body{
     background-color: none;
     background:url("../images/backhead3.jpg");
     background-size: cover;
-    height: 120px;
-    font-family: fantasy,Arial Verdana;
-    -webkit-font-family: fantasy,Arial Verdana;
+    height: 130px;
+    font-family: Arial Verdana;
+    -webkit-font-family: Arial Verdana;
     color: white;
     text-align: center;
     display: inline-block;
-    overflow: hidden;
+    overflow: auto;
     width: 100vw;
     position: fixed;
     top: 0;
@@ -164,7 +164,7 @@ h2{
         overflow: hidden;
         left: auto;
         margin-top: 1.6%;
-        margin-right: 2.5%;
+        margin-right: 3.5%;
     }
       
     .navbar a {
