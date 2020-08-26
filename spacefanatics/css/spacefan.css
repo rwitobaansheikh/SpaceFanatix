@@ -185,14 +185,13 @@ h2{
     }
       
     .dropdown .dropbtn {
-        font-size: 150%;  
+        font-size: 200%;  
         border: none;
         outline: none;
         color: white;
         padding: 14px 16px;
         background-color: inherit;
         font-family: inherit;
-        font-size: 200%;
         left:auto;
         margin: 0;
         overflow: hidden;
