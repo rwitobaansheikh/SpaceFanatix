@@ -9,13 +9,12 @@ body{
     background-color: none;
     background:url("../images/backhead3.jpg");
     background-size: cover;
-    height: 130px;
-    font-family: Impact, Charcoal, sans-serif;
-    -webkit-font-family: Impact, Charcoal, sans-serif;
-    
+    height: 120px;
+    font-family: fantasy;
+    -webkit-font-family: fantasy;
     color: white;
     text-align: center;
-    display: block;
+    display: inline-block;
     overflow: hidden;
     width: 100vw;
     position: fixed;
@@ -164,7 +163,7 @@ h2{
         overflow: hidden;
         left: auto;
         margin-top: 1.6%;
-        margin-right: 3.5%;
+        margin-right: 2.5%;
     }
       
     .navbar a {
@@ -184,16 +183,17 @@ h2{
     }
       
     .dropdown .dropbtn {
-        font-size: 270%;  
+        font-size: 150%;  
         border: none;
         outline: none;
         color: white;
         padding: 14px 16px;
         background-color: inherit;
         font-family: inherit;
+        font-size: 250%;
         left:auto;
         margin: 0;
-        overflow: hidden;
+        overflow: auto;
         text-shadow: 4px 4px black;
     }
     .navbar a:hover, .dropdown:hover .dropbtn {
@@ -223,14 +223,13 @@ h2{
         display: block;
         text-align: center;
         left: auto;
-        font-size: 100%;
+        font-size: 200%;
       }
       
       .links a:hover {
         border-style: solid;
         border-width:6px;
         left: auto;
-        display: block;
       }
       
       .dropdown:hover .links {
@@ -327,7 +326,7 @@ h2{
         margin: 1%;
         color: white;
         text-decoration: none;
-        font-size: 60%;
+        font-size: 130%;
         text-shadow: 2px 2px black;
         position: relative;
         padding: none;
