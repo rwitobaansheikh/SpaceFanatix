@@ -184,7 +184,7 @@ h2{
     }
       
     .dropdown .dropbtn {
-        font-size: 250%;  
+        font-size: 270%;  
         border: none;
         outline: none;
         color: white;
@@ -223,7 +223,7 @@ h2{
         display: block;
         text-align: center;
         left: auto;
-        font-size: 250%;
+        font-size: 150%;
       }
       
       .links a:hover {
