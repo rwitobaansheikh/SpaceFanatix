@@ -223,7 +223,7 @@ h2{
         display: block;
         text-align: center;
         left: auto;
-        font-size: 150%;
+        font-size: 100%;
       }
       
       .links a:hover {
