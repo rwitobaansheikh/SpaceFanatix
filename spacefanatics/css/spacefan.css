@@ -12,10 +12,11 @@ body{
     height: 130px;
     font-family: Arial Verdana;
     -webkit-font-family: Arial Verdana;
+    
     color: white;
     text-align: center;
-    display: inline-block;
-    overflow: auto;
+    display: block;
+    overflow: hidden;
     width: 100vw;
     position: fixed;
     top: 0;
@@ -191,10 +192,10 @@ h2{
         padding: 14px 16px;
         background-color: inherit;
         font-family: inherit;
-        font-size: 250%;
+        font-size: 150%;
         left:auto;
         margin: 0;
-        overflow: auto;
+        overflow: hidden;
         text-shadow: 4px 4px black;
     }
     .navbar a:hover, .dropdown:hover .dropbtn {
@@ -231,6 +232,7 @@ h2{
         border-style: solid;
         border-width:6px;
         left: auto;
+        display: block;
       }
       
       .dropdown:hover .links {
