@@ -10,8 +10,8 @@ body{
     background:url("../images/backhead3.jpg");
     background-size: cover;
     height: 120px;
-    font-family: fantasy;
-    -webkit-font-family: fantasy;
+    font-family: Impact, Charcoal, sans-serif;
+    -webkit-font-family: Impact, Charcoal, sans-serif;
     color: white;
     text-align: center;
     display: inline-block;
